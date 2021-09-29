@@ -1,8 +1,36 @@
 h1{
-    margin: 0px;
+    margin: 35px;
     color: skyblue;
     font-size: 240px;
     font-family:"Arial Narrow", "Myraid Pro";
     font-weight: ;
     text-align: center;
 }
+
+h2{ margin: 35px;
+    color: skyblue;
+    font-size: 200px;
+    font-family:"Arial Narrow", "Myraid Pro";
+    font-weight: ;
+    text-align: center; }
+
+h3{margin: 35px;
+    color: skyblue;
+    font-size: 150px;
+    font-family:"Arial Narrow", "Myraid Pro";
+    font-weight: ;
+    text-align: center; }
+
+h4{margin: 35px;
+    color: skyblue;
+    font-size: 240px;
+    font-family:"Arial Narrow", "Myraid Pro";
+    font-weight: ;
+    text-align: center; }
+
+h5{margin: 35px;
+    color: skyblue;
+    font-size: 150px;
+    font-family:"Arial Narrow", "Myraid Pro";
+    font-weight: ;
+    text-align: center; }
